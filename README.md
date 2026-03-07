@@ -30,7 +30,7 @@ Try it out live by opening the `index.html` file in your browser and customize y
 
 ## Why Use This?
 
-- Creates **strong and unpredictable** passwords.  
+- Creates **strong and unpredictable** passwords.    
 - Easy to use with a clean, user-friendly interface.  
 - Customizable based on your security needs.  
 - Perfect for securing accounts, apps, and websites.
