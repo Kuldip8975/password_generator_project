@@ -39,7 +39,9 @@ Try it out live by opening the `index.html` file in your browser and customize y
 
 ## Installation
 
+
 No installation needed! Just download the project files and open `index.html` in your favorite browser.
+
 
 ---
 
